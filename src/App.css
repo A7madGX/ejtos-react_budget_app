@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+
+#addbtn {
+  background-color: white;
+  border: 0;
+}
+#minusbtn {
+  background-color: white;
+  border: 0;
+}
+
+#addimg {
+  width: 30px;
+}
+#minusimg {
+  width: 25px;
+}
+#cur {
+  position: relative;
+  left: 30px;
+}
